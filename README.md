@@ -37,7 +37,7 @@ Luego, edita el archivo `.env` con tus credenciales:
 ## 5. Instalación de Dependencias
 Con el entorno virtual activado, instala los requerimientos del proyecto:
 ```bash
-pip install --upgrade pip
+python.exe -m pip install --upgrade pip 
 pip install -r requirements.txt
 ```
 
