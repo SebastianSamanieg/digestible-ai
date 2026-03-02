@@ -27,3 +27,5 @@ Procesamiento de machina aumenta (Mas costoso)
 
 
 ¿Que es un token? como se calcula, que es
+
+Embeddings: Representacion vectorial de las palabras que componen un corpus
