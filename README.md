@@ -59,7 +59,7 @@ Con el entorno virtual activado:
 python -m pip install --upgrade pip
 ```
 
-## Cada que instales una nueva libreria ejecuta>
+## Cada que instales una nueva libreria ejecuta:
 
 ```bash
 pip freeze > requirements.txt
