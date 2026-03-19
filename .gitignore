@@ -9,6 +9,7 @@
 config/.env
 config\.env
 *.env
+u_content/ml_probabilistico/ml_project/instagram_usage_lifestyle.csv
 
 # ────────────────────────────────────────────────────────────────────────────
 # ─── 2. ENTORNOS VIRTUALES ──────────────────────────────────────────────────
